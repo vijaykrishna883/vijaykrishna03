@@ -1,0 +1,25 @@
+body {
+    font-family: Serif;
+    line-height: 1.4;
+    background-color: Pink;
+    border-radius: 10px;
+}
+
+header {
+    background-color: #008000;
+    padding: 20px;
+    text-align: center;
+    font-family: Serif;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text
+    font-family: Serif;
+}
+.heading{
+    background-color: yellow;
+    font-family: Serif;
+    border-radius: 10px;
+}
